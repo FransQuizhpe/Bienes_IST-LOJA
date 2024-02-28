@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bienes ISTL</string>
+    <string name="item1">Inicio</string>
+    <string name="item2">Info</string>
+    <string name="item3">Salir</string>
+    <string name="image_description">descripcion</string>
+</resources>
