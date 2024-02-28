@@ -1,7 +1,7 @@
 # Aplicación Móvil de Bienes y Activos del ISTLoja
 
 Paso 1:
-Descargar el archivo APK en el siguiente link:
+Descargar el archivo "app-debug.apk" del siguiente link:
 https://drive.google.com/drive/folders/141CvmGqU8xtwgVuAR3Kd2G6XU7pBQdwi?usp=sharing
 
 
